@@ -1,0 +1,192 @@
+[
+  {
+      "nome": "João Silva",
+      "nomeSocial": "João",
+      "email": "joao@gmail.com",
+      "telefone": { "numero": "(11) 99999-9999" },
+      "cpf": { "valor": "123.456.789-10" },
+      "rg": { "valorrg": "12.345.678-9" },
+      "pet": [
+          {
+              "nome": "Rex",
+              "tipo": "Cachorro",
+              "raca": "Labrador",
+              "genero": "Macho"
+          }
+      ],
+      "compras": [
+          { "nomeProduto": "Ração", "valor": 150 }
+      ]
+  },
+  {
+      "nome": "Maria Oliveira",
+      "nomeSocial": "Maria",
+      "email": "maria@gmail.com",
+      "telefone": { "numero": "(21) 91234-5678" },
+      "cpf": { "valor": "987.654.321-00" },
+      "rg": { "valorrg": "98.765.432-1" },
+      "pet": [
+          {
+              "nome": "Mimi",
+              "tipo": "Gato",
+              "raca": "Siamês",
+              "genero": "Fêmea"
+          }
+      ],
+      "compras": [
+          { "nomeProduto": "Brinquedo", "valor": 50 }
+      ]
+  },
+  {
+      "nome": "Carlos Souza",
+      "nomeSocial": "Carlos",
+      "email": "carlos@gmail.com",
+      "telefone": { "numero": "(31) 98765-4321" },
+      "cpf": { "valor": "789.123.456-10" },
+      "rg": { "valorrg": "34.567.890-2" },
+      "pet": [
+          {
+              "nome": "Thor",
+              "tipo": "Cachorro",
+              "raca": "Bulldog",
+              "genero": "Macho"
+          }
+      ],
+      "compras": [
+          { "nomeProduto": "Coleira", "valor": 75 }
+      ]
+  },
+  {
+      "nome": "Ana Pereira",
+      "nomeSocial": "Ana",
+      "email": "ana@gmail.com",
+      "telefone": { "numero": "(41) 99876-5432" },
+      "cpf": { "valor": "456.123.789-00" },
+      "rg": { "valorrg": "23.456.789-3" },
+      "pet": [
+          {
+              "nome": "Nina",
+              "tipo": "Gato",
+              "raca": "Sphynx",
+              "genero": "Fêmea"
+          }
+      ],
+      "compras": [
+          { "nomeProduto": "Arranhador", "valor": 200 }
+      ]
+  },
+  {
+      "nome": "Juliana Costa",
+      "nomeSocial": "Juliana",
+      "email": "juliana@gmail.com",
+      "telefone": { "numero": "(51) 98765-6789" },
+      "cpf": { "valor": "321.654.987-00" },
+      "rg": { "valorrg": "45.678.901-4" },
+      "pet": [
+          {
+              "nome": "Bobby",
+              "tipo": "Cachorro",
+              "raca": "Poodle",
+              "genero": "Macho"
+          }
+      ],
+      "compras": [
+          { "nomeProduto": "Ração Premium", "valor": 250 }
+      ]
+  },
+  {
+      "nome": "Pedro Almeida",
+      "nomeSocial": "Pedro",
+      "email": "pedro@gmail.com",
+      "telefone": { "numero": "(61) 91234-9876" },
+      "cpf": { "valor": "654.987.321-00" },
+      "rg": { "valorrg": "67.890.123-5" },
+      "pet": [
+          {
+              "nome": "Max",
+              "tipo": "Cachorro",
+              "raca": "Golden Retriever",
+              "genero": "Macho"
+          }
+      ],
+      "compras": [
+          { "nomeProduto": "Cama para Pet", "valor": 300 }
+      ]
+  },
+  {
+      "nome": "Fernanda Lima",
+      "nomeSocial": "Fernanda",
+      "email": "fernanda@gmail.com",
+      "telefone": { "numero": "(71) 99876-5432" },
+      "cpf": { "valor": "789.654.321-11" },
+      "rg": { "valorrg": "78.901.234-6" },
+      "pet": [
+          {
+              "nome": "Luna",
+              "tipo": "Gato",
+              "raca": "Persa",
+              "genero": "Fêmea"
+          }
+      ],
+      "compras": [
+          { "nomeProduto": "Caminha", "valor": 150 }
+      ]
+  },
+  {
+      "nome": "Rafael Borges",
+      "nomeSocial": "Rafael",
+      "email": "rafael@gmail.com",
+      "telefone": { "numero": "(81) 98765-4321" },
+      "cpf": { "valor": "321.987.654-22" },
+      "rg": { "valorrg": "89.012.345-7" },
+      "pet": [
+          {
+              "nome": "Spike",
+              "tipo": "Cachorro",
+              "raca": "Beagle",
+              "genero": "Macho"
+          }
+      ],
+      "compras": [
+          { "nomeProduto": "Brinquedo", "valor": 60 }
+      ]
+  },
+  {
+      "nome": "Isabela Freitas",
+      "nomeSocial": "Isabela",
+      "email": "isabela@gmail.com",
+      "telefone": { "numero": "(91) 91234-5678" },
+      "cpf": { "valor": "654.321.987-33" },
+      "rg": { "valorrg": "90.123.456-8" },
+      "pet": [
+          {
+              "nome": "Lola",
+              "tipo": "Gato",
+              "raca": "Angorá",
+              "genero": "Fêmea"
+          }
+      ],
+      "compras": [
+          { "nomeProduto": "Ração", "valor": 120 }
+      ]
+  },
+  {
+      "nome": "Ricardo Nunes",
+      "nomeSocial": "Ricardo",
+      "email": "ricardo@gmail.com",
+      "telefone": { "numero": "(31) 98765-8765" },
+      "cpf": { "valor": "987.654.321-44" },
+      "rg": { "valorrg": "12.345.678-9" },
+      "pet": [
+          {
+              "nome": "Daisy",
+              "tipo": "Cachorro",
+              "raca": "Shih Tzu",
+              "genero": "Fêmea"
+          }
+      ],
+      "compras": [
+          { "nomeProduto": "Coleira", "valor": 80 }
+      ]
+  }
+]

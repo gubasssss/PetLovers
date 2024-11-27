@@ -1,0 +1,136 @@
+{
+  "clientes": [
+    {
+      "nome": "João Silva",
+      "nomeSocial": "João",
+      "cpf": {
+        "numero": "123.456.789-00",
+        "dataEmissao": "15/01/20"
+      },
+      "rg": {
+        "numero": "12.345.678-9",
+        "dataEmissao": "10/06/19"
+      },
+      "telefone": {
+        "ddd": "12",
+        "numero": "987654321"
+      },
+      "pets": [
+        {
+          "nome": "Rex",
+          "tipo": "Cachorro",
+          "raca": "Labrador",
+          "genero": "Macho"
+        },
+        {
+          "nome": "Luna",
+          "tipo": "Gato",
+          "raca": "Persa",
+          "genero": "Fêmea"
+        }
+      ],
+      "compras": [
+        { "itemId": "001", "tipoItem": "produto" },
+        { "itemId": "002", "tipoItem": "servico" }
+      ],
+      "email": "joao.silva@example.com"
+    },
+    {
+      "nome": "Maria Oliveira",
+      "nomeSocial": "Maria",
+      "cpf": {
+        "numero": "987.654.321-00",
+        "dataEmissao": "25/03/18"
+      },
+      "rg": {
+        "numero": "98.765.432-1",
+        "dataEmissao": "12/09/17"
+      },
+      "telefone": {
+        "ddd": "11",
+        "numero": "912345678"
+      },
+      "pets": [
+        {
+          "nome": "Mimi",
+          "tipo": "Gato",
+          "raca": "Siamês",
+          "genero": "Fêmea"
+        }
+      ],
+      "compras": [
+        { "itemId": "003", "tipoItem": "produto" }
+      ],
+      "email": "maria.oliveira@example.com"
+    },
+    {
+      "nome": "Ana Pereira",
+      "nomeSocial": "Ana",
+      "cpf": {
+        "numero": "456.123.789-22",
+        "dataEmissao": "18/05/22"
+      },
+      "rg": {
+        "numero": "23.456.789-0",
+        "dataEmissao": "22/04/21"
+      },
+      "telefone": {
+        "ddd": "21",
+        "numero": "998123456"
+      },
+      "pets": [
+        {
+          "nome": "Bobby",
+          "tipo": "Cachorro",
+          "raca": "Poodle",
+          "genero": "Macho"
+        },
+        {
+          "nome": "Nina",
+          "tipo": "Gato",
+          "raca": "Sphynx",
+          "genero": "Fêmea"
+        }
+      ],
+      "compras": [
+        { "itemId": "004", "tipoItem": "produto" },
+        { "itemId": "001", "tipoItem": "produto" }
+      ],
+      "email": "ana.pereira@example.com"
+    },
+    {
+      "nome": "Carlos Souza",
+      "nomeSocial": "Carlos",
+      "cpf": {
+        "numero": "789.123.456-00",
+        "dataEmissao": "12/07/21"
+      },
+      "rg": {
+        "numero": "34.567.890-1",
+        "dataEmissao": "08/06/20"
+      },
+      "telefone": {
+        "ddd": "13",
+        "numero": "912345679"
+      },
+      "pets": [
+        {
+          "nome": "Thor",
+          "tipo": "Cachorro",
+          "raca": "Bulldog",
+          "genero": "Macho"
+        },
+        {
+          "nome": "Bella",
+          "tipo": "Gato",
+          "raca": "Angorá",
+          "genero": "Fêmea"
+        }
+      ],
+      "compras": [
+        { "itemId": "005", "tipoItem": "servico" }
+      ],
+      "email": "carlos.souza@example.com"
+    }
+  ]
+}

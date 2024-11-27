@@ -1,0 +1,75 @@
+{
+    "servico": [
+      {
+        "idserv": "001",
+        "nomeserv": "Banho e Tosa Completa para Cães",
+        "valorserv": 80.00,
+        "descricaoserv": "Serviço completo de banho, tosa e higienização para cães de todos os portes.",
+        "tiposerv": "Higiene"
+      },
+      {
+        "idserv": "002",
+        "nomeserv": "Vacinação para Cães e Gatos",
+        "valorserv": 120.00,
+        "descricaoserv": "Aplicação de vacinas obrigatórias e opcionais para a saúde do seu pet, realizada por veterinários qualificados.",
+        "tiposerv": "Saúde"
+      },
+      {
+        "idserv": "003",
+        "nomeserv": "Tosa Higiênica para Gatos",
+        "valorserv": 60.00,
+        "descricaoserv": "Tosa higiênica com corte de unhas, limpeza de orelhas e escovação dos pelos.",
+        "tiposerv": "Higiene"
+      },
+      {
+        "idserv": "004",
+        "nomeserv": "Consulta Veterinária",
+        "valorserv": 150.00,
+        "descricaoserv": "Consulta veterinária para avaliação de saúde, diagnóstico e orientações para o bem-estar do seu pet.",
+        "tiposerv": "Saúde"
+      },
+      {
+        "idserv": "005",
+        "nomeserv": "Hospedagem para Pets",
+        "valorserv": 200.00,
+        "descricaoserv": "Hospedagem segura e confortável para cães e gatos, com alimentação e monitoramento 24 horas.",
+        "tiposerv": "Conforto"
+      },
+      {
+        "idserv": "006",
+        "nomeserv": "Adestramento Básico para Cães",
+        "valorserv": 300.00,
+        "descricaoserv": "Curso de adestramento básico com técnicas de obediência e comportamento para cães.",
+        "tiposerv": "Educação"
+      },
+      {
+        "idserv": "007",
+        "nomeserv": "Serviço de Pet Táxi",
+        "valorserv": 50.00,
+        "descricaoserv": "Transporte seguro do seu pet para consultas veterinárias, banho e tosa ou outros compromissos.",
+        "tiposerv": "Transporte"
+      },
+      {
+        "idserv": "008",
+        "nomeserv": "Hidratação e Escovação de Pelos",
+        "valorserv": 70.00,
+        "descricaoserv": "Tratamento de hidratação profunda e escovação para pelagens longas ou ressecadas.",
+        "tiposerv": "Estética"
+      },
+      {
+        "idserv": "009",
+        "nomeserv": "Cuidados Odontológicos para Cães e Gatos",
+        "valorserv": 100.00,
+        "descricaoserv": "Limpeza bucal, remoção de tártaro e orientações sobre a saúde dental do seu pet.",
+        "tiposerv": "Saúde"
+      },
+      {
+        "idserv": "010",
+        "nomeserv": "Day Care para Pets",
+        "valorserv": 90.00,
+        "descricaoserv": "Creche para pets com atividades recreativas e monitoramento, ideal para o bem-estar do seu animal enquanto você trabalha.",
+        "tiposerv": "Conforto"
+      }
+    ]
+  }
+  

@@ -1,0 +1,74 @@
+{
+  "produto": [
+    {
+      "idprod": "001",
+      "nomeprod": "Ração Premium para Cães Adultos",
+      "valorprod": 150.00,
+      "descricaoprod": "Ração balanceada de alta qualidade, ideal para a saúde e o bem-estar de cães adultos de todas as raças.",
+      "tipoprod": "Alimento"
+    },
+    {
+      "idprod": "002",
+      "nomeprod": "Coleira Ajustável para Gatos",
+      "valorprod": 35.00,
+      "descricaoprod": "Coleira de nylon ajustável com fecho de segurança, disponível em várias cores.",
+      "tipoprod": "Acessórios"
+    },
+    {
+      "idprod": "003",
+      "nomeprod": "Shampoo Hipoalergênico para Pets",
+      "valorprod": 45.00,
+      "descricaoprod": "Shampoo hipoalergênico, ideal para pets com peles sensíveis, sem fragrância artificial.",
+      "tipoprod": "Higiene"
+    },
+    {
+      "idprod": "004",
+      "nomeprod": "Cama Confortável para Cães Pequenos",
+      "valorprod": 120.00,
+      "descricaoprod": "Cama acolchoada, macia e lavável, perfeita para garantir o conforto do seu pet.",
+      "tipoprod": "Conforto"
+    },
+    {
+      "idprod": "005",
+      "nomeprod": "Brinquedo de Borracha para Cães",
+      "valorprod": 30.00,
+      "descricaoprod": "Brinquedo resistente e seguro, feito de borracha durável, ideal para cães que adoram morder.",
+      "tipoprod": "Brinquedo"
+    },
+    {
+      "idprod": "006",
+      "nomeprod": "Ração para Gatos Castrados",
+      "valorprod": 80.00,
+      "descricaoprod": "Ração especialmente formulada para gatos castrados, ajuda no controle de peso e saúde do trato urinário.",
+      "tipoprod": "Alimento"
+    },
+    {
+      "idprod": "007",
+      "nomeprod": "Transportadora para Pets",
+      "valorprod": 180.00,
+      "descricaoprod": "Transportadora espaçosa e ventilada, ideal para viagens seguras com cães e gatos de pequeno porte.",
+      "tipoprod": "Transporte"
+    },
+    {
+      "idprod": "008",
+      "nomeprod": "Petisco Natural para Cães",
+      "valorprod": 25.00,
+      "descricaoprod": "Petisco saudável feito com ingredientes naturais, ideal para premiar o seu pet.",
+      "tipoprod": "Alimento"
+    },
+    {
+      "idprod": "009",
+      "nomeprod": "Cerca de Segurança Ajustável",
+      "valorprod": 250.00,
+      "descricaoprod": "Cerca ajustável para garantir que seu pet fique seguro dentro de casa ou em áreas externas.",
+      "tipoprod": "Segurança"
+    },
+    {
+      "idprod": "010",
+      "nomeprod": "Camiseta para Cães",
+      "valorprod": 50.00,
+      "descricaoprod": "Camiseta de algodão macio e respirável, disponível em diversos tamanhos e cores.",
+      "tipoprod": "Vestuário"
+    }
+  ]
+}

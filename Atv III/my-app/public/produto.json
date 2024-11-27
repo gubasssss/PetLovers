@@ -1,0 +1,62 @@
+[
+  {
+      "nomeprod": "Ração",
+      "valorprod": 150,
+      "descricaoprod": "Ração de alta qualidade para cães de porte médio.",
+      "tipoprod": "Alimentação"
+  },
+  {
+      "nomeprod": "Brinquedo",
+      "valorprod": 50,
+      "descricaoprod": "Brinquedo interativo para diversão do seu pet.",
+      "tipoprod": "Brinquedos"
+  },
+  {
+      "nomeprod": "Coleira",
+      "valorprod": 75,
+      "descricaoprod": "Coleira confortável e segura para cães de pequeno e médio porte.",
+      "tipoprod": "Acessórios"
+  },
+  {
+      "nomeprod": "Arranhador",
+      "valorprod": 200,
+      "descricaoprod": "Arranhador grande para gatos, ideal para evitar danos nos móveis.",
+      "tipoprod": "Acessórios"
+  },
+  {
+      "nomeprod": "Ração Premium",
+      "valorprod": 250,
+      "descricaoprod": "Ração premium para gatos e cães com ingredientes de alta qualidade.",
+      "tipoprod": "Alimentação"
+  },
+  {
+      "nomeprod": "Cama para Pet",
+      "valorprod": 300,
+      "descricaoprod": "Cama macia e confortável para cães de médio porte.",
+      "tipoprod": "Acessórios"
+  },
+  {
+      "nomeprod": "Caminha",
+      "valorprod": 150,
+      "descricaoprod": "Caminha ortopédica para cães, ajuda na postura e conforto.",
+      "tipoprod": "Acessórios"
+  },
+  {
+      "nomeprod": "Ração Nutritiva",
+      "valorprod": 180,
+      "descricaoprod": "Ração nutritiva para cães com necessidades alimentares específicas.",
+      "tipoprod": "Alimentação"
+  },
+  {
+      "nomeprod": "Brinquedo Interativo",
+      "valorprod": 120,
+      "descricaoprod": "Brinquedo que estimula o raciocínio do pet e mantém ele ativo.",
+      "tipoprod": "Brinquedos"
+  },
+  {
+      "nomeprod": "Shampoo Pet",
+      "valorprod": 90,
+      "descricaoprod": "Shampoo hipoalergênico para cães e gatos com pelagem sensível.",
+      "tipoprod": "Higiene"
+  }
+]

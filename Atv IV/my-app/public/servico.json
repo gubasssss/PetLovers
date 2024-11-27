@@ -1,0 +1,62 @@
+[
+  {
+      "nomeserv": "Banho e Tosa",
+      "valorserv": 80,
+      "descricaoserv": "Serviço de banho e tosa para cães e gatos, com cuidados especiais.",
+      "tiposerv": "Higiene"
+  },
+  {
+      "nomeserv": "Consulta Veterinária",
+      "valorserv": 120,
+      "descricaoserv": "Consulta com veterinário especializado para diagnóstico e cuidados do seu pet.",
+      "tiposerv": "Saúde"
+  },
+  {
+      "nomeserv": "Adestramento",
+      "valorserv": 200,
+      "descricaoserv": "Serviço de adestramento para cães, focado em comportamentos positivos.",
+      "tiposerv": "Treinamento"
+  },
+  {
+      "nomeserv": "Hospedagem",
+      "valorserv": 300,
+      "descricaoserv": "Hospedagem para pets durante viagens, com cuidados diários.",
+      "tiposerv": "Alojamento"
+  },
+  {
+      "nomeserv": "Corte de Unhas",
+      "valorserv": 30,
+      "descricaoserv": "Corte de unhas para cães e gatos, garantindo o bem-estar do pet.",
+      "tiposerv": "Higiene"
+  },
+  {
+      "nomeserv": "Vacinação",
+      "valorserv": 100,
+      "descricaoserv": "Aplicação de vacinas obrigatórias para cães e gatos, conforme calendário.",
+      "tiposerv": "Saúde"
+  },
+  {
+      "nomeserv": "Clínica Odontológica",
+      "valorserv": 250,
+      "descricaoserv": "Consultas odontológicas para cães e gatos, com limpeza e cuidados dentários.",
+      "tiposerv": "Saúde"
+  },
+  {
+      "nomeserv": "Raio-X",
+      "valorserv": 180,
+      "descricaoserv": "Exame de raio-X para diagnóstico de fraturas e problemas ósseos.",
+      "tiposerv": "Saúde"
+  },
+  {
+      "nomeserv": "Banho Terapêutico",
+      "valorserv": 150,
+      "descricaoserv": "Banho especial para pets com pelagem sensível ou problemas de pele.",
+      "tiposerv": "Higiene"
+  },
+  {
+      "nomeserv": "Tosa Higiênica",
+      "valorserv": 50,
+      "descricaoserv": "Tosa higiênica para cães, focando na higiene e bem-estar do pet.",
+      "tiposerv": "Higiene"
+  }
+]
